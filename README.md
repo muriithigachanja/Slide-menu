@@ -1,3 +1,2 @@
 Slide-menu<br>
-This is just a simple web slide menu.
-Not complicated
+This is just a simple HTML / CSS web slide menu 
